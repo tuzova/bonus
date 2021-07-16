@@ -8,7 +8,7 @@ public class Main {
         } else {
             total = account + credit;
         }
-        //int total = credit > 1_000 ? account + credit + (credit/100): account + credit;
+        //int total = credit > 1_000 ? account + credit + (credit/100) : account + credit;
         System.out.println(total);
         }
 }
